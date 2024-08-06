@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     Welcome to my page ! Here you can find out my academic background and research interests. I will also be sharing ideas & photos & critics about what I read & watch.   
   
 baseurl: "" # the subpath of your site, e.g. /blog
-url: " https://ahtngl.github.io "
+url: "https://ahtngl.github.io"
 
 twitter_username: N/A
 github_username: ahtngl 
