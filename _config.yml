@@ -18,11 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Welcome , you are @ my web page 
+title: Home @ ahtngl
 email: alihanhatunoglu@gmail.com
+    
 description: >- # this means to ignore newlines until "baseurl:"
-
-    Welcome to my page ! Here you can find out my academic background and research interests. I will also be sharing ideas & photos & critics about what I read & watch.   
+ 
+   Personal web page of alihan hatunoglu
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ahtngl.github.io"
@@ -30,10 +31,12 @@ url: "https://ahtngl.github.io"
 twitter_username: N/A
 github_username: ahtngl 
 
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
