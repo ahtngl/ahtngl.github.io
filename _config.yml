@@ -18,11 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: you are @ personal web page of * alihan hatunoglu *
+title: Welcome , you are @ my web page 
 email: alihanhatunoglu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 
-    This contains my resume , research interests and , who knows what else. 
+    Welcome to my page ! 
+    
+    Here you can find out my academic background and research interests.
+    
+    I will also be sharing ideas & photos & critics about what I read § see & watch   
+    
+    
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: " https://ahtngl.github.io "
