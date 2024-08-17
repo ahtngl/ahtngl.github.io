@@ -6,33 +6,31 @@ permalink: /resume/
 
 ## Alihan Hatunoglu
 
-I am a 4th-grade medical student at Yeditepe University ( Istanbul / Turkey ) who aspires to approach complex diseases with computational methods to develop effective and sustainable solutions.
-
 ## Education
 
-### Yeditepe University — *Faculty of Medicine*
+#### Yeditepe University — *Faculty of Medicine*
 **Istanbul** — Sep. 2021 - today
 
 4th year / 6
 
-### Koç University — *College of Engineering*
+#### Koç University — *College of Engineering*
 **Istanbul** — Sep. 2020 - June 2021
 
-Completed Courses: *Calculus I & II, Introduction to Linear Algebra, General Physics, General Chemistry, Programming with Python, Academic Writing*
+Completed Courses : *Calculus I & II , Introduction to Linear Algebra , General Physics ( + Lab ) , General Chemistry ( + Lab ) , Programming with Python , Academic Writing , Environmental Ethics*
 
-### Kabataş High School — Mathematics & Sciences Track
+#### Kabataş High School — *Mathematics & Sciences Track*
 **Istanbul** — Sep. 2015 - June 2020
 
 Final Grade: 91.2 / 100
 
 ## Experience
 
-### Yeditepe Uni. Hospital & Stem Cell Laboratory — *Intern*
+#### Yeditepe Uni. Hospital & Stem Cell Laboratory — *Intern*
 **Istanbul** — Sep. 2023 - today
 
 I have been learning how to analyse flow cytometry data to diagnose hematopoietic neoplasms.
 
-### Koç Uni. Computational Structural Biology Laboratory — *Member*
+#### Koç Uni. Computational Structural Biology Laboratory — *Member*
 **Istanbul** — Sep. 2020 - June 2021
 
 Gained valuable insight into teamwork in an academic setting. 
@@ -41,7 +39,7 @@ Used Bash ( Unix shell ) to run tests for the development of a machine learning 
 
 ## Projects
 
-### TÜBİTAK 2209 A : Research Projects Support Programme
+#### TÜBİTAK 2209 A : Research Projects Support Programme
 
 Funded by Scientific and Technological Research Council of Turkey ( TÜBİTAK )
 
@@ -68,7 +66,7 @@ Funded by Scientific and Technological Research Council of Turkey ( TÜBİTAK )
 
 ## Certificates
 
-### Supervised Machine Learning: Regression and Classification
+#### Supervised Machine Learning: Regression and Classification
 **Online** — July 2024
 
 Offered by DeepLearning.AI and Stanford University through Coursera. Covered topics include:
@@ -78,7 +76,7 @@ Offered by DeepLearning.AI and Stanford University through Coursera. Covered top
 
 [Verify Certificate](https://coursera.org/verify/STD7ADPMSAWX)
 
-### Introduction to Probability and Data with R
+#### Introduction to Probability and Data with R
 **Online** — July 2023
 
 Offered by Duke University through Coursera. Covered topics include:
@@ -90,7 +88,7 @@ Offered by Duke University through Coursera. Covered topics include:
 
 [Verify Certificate](https://coursera.org/verify/56PSKYLY7CVK)
 
-### Fundamental Neuroscience for Neuroimaging
+#### Fundamental Neuroscience for Neuroimaging
 **Online** — January 2023
 
 Offered by Johns Hopkins University through Coursera. Covered topics include:
@@ -101,7 +99,7 @@ Offered by Johns Hopkins University through Coursera. Covered topics include:
 
 [Verify Certificate](https://coursera.org/verify/NK5332ZNTJZE)
 
-### Certificate of Animal Use in Experimental Research
+#### Certificate of Animal Use in Experimental Research
 **Istanbul** — January 2022
 
 Offered by Yeditepe University Animal Experiments Local Ethics Committee.
