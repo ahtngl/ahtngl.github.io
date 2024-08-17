@@ -6,7 +6,7 @@ permalink: /resume/
 
 ## Alihan Hatunoglu
 
-I am a 4th grade medical student at Yeditepe University Faculty of Medicine , Istanbul / Turkey.
+I am a 4th-grade medical student at Yeditepe University ( Istanbul / Turkey ) who aspires to approach complex diseases with computational methods to develop effective and sustainable solutions.
 
 ## Education
 
@@ -30,27 +30,28 @@ Final Grade: 91.2 / 100
 ### Yeditepe Uni. Hospital & Stem Cell Laboratory — *Intern*
 **Istanbul** — Sep. 2023 - today
 
-- I have been learning how to analyse flow cytometry data to diagnose hematopoietic neoplasms.
+I have been learning how to analyse flow cytometry data to diagnose hematopoietic neoplasms.
 
 ### Koç Uni. Computational Structural Biology Laboratory — *Member*
 **Istanbul** — Sep. 2020 - June 2021
 
-- Gained valuable insight into teamwork in an academic setting. 
-- Used Unix-Shell to test the algorithm thas was under development.
+Gained valuable insight into teamwork in an academic setting. 
+
+Used Bash ( Unix shell ) to run tests for the development of a machine learning algorithm.
 
 ## Projects
 
-### Tübitak 2209 A
+### TÜBİTAK 2209 A : Research Projects Support Programme
 
-Funded by Scientific and Technological Research Council of Turkey
+Funded by Scientific and Technological Research Council of Turkey ( TÜBİTAK )
 
 **Title:** Classification of Hematogons and Neoplastic B Lymphoblasts through Computational Analysis of Immunophenotypic Flow Cytometry Data with Supervised Machine Learning
 
 ## Research Interests
 
-- Molecular and cellular biology
-- Medical systems biology
-- Immunology
+- Molecular & Cellular Biology
+- Computational & Quantitative Biology
+- Medical Immunology & Neuroscience
 
 ## Skills
 
