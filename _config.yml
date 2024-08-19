@@ -23,9 +23,7 @@ email: alihanhatunoglu@gmail.com
     
 description: >- # this means to ignore newlines until "baseurl:"
  
-   web page of Alihan Hatunoglu 
-   
-   Ⓡ 2024
+   Personal web page of Alihan Hatunoglu Ⓡ 2024
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ahtngl.github.io"
