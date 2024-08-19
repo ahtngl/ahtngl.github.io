@@ -13,15 +13,21 @@ permalink: /resume/
 
 4th year / 6
 
+[View Transcript](/assets/Med_transcript)
+
 #### Koç University — *College of Engineering*
 **Istanbul** — Sep. 2020 - June 2021
 
 Completed Courses : *Calculus I & II , Introduction to Linear Algebra , General Physics ( + Lab ) , General Chemistry ( + Lab ) , Programming with Python , Academic Writing , Environmental Ethics*
 
+[View Transcript](/assets/KU_transcript.pdf)
+
 #### Kabataş High School — *Mathematics & Sciences Track*
 **Istanbul** — Sep. 2015 - June 2020
 
 Final Grade: 91.2 / 100
+
+[View Diploma](/assets/TR_Diploma.pdf)
 
 ## Experience
 
@@ -105,3 +111,6 @@ Offered by Johns Hopkins University through Coursera. Covered topics include:
 Offered by Yeditepe University Animal Experiments Local Ethics Committee.
 
 Received Type A Certificate for rodent use, qualified to perform procedures on animals.
+
+[View Certificate](/assets/lab_animals.pdf)
+
