@@ -34,35 +34,35 @@ Final Grade: 91.2 / 100
 #### Yeditepe Uni. Hospital & Stem Cell Laboratory — *Intern*
 **Istanbul** — Sep. 2023 - today
 
-I have been learning how to analyse flow cytometry data to diagnose hematopoietic neoplasms.
+- I have been learning how to analyse flow cytometry data to diagnose hematopoietic neoplasms.
 
 #### Koç Uni. Computational Structural Biology Laboratory — *Member*
 **Istanbul** — Sep. 2020 - June 2021
 
-Gained valuable insight into teamwork in an academic setting. 
-
-Used Bash ( Unix shell ) to run tests for the development of a machine learning algorithm.
+- Gained valuable insight into teamwork in an academic setting. 
+- Used Bash ( Unix shell ) to run tests for the development of a machine learning algorithm.
 
 ## Projects
 
 #### TÜBİTAK 2209 A : Research Projects Support Programme
 
+- **Title:** Classification of Hematogons and Neoplastic B Lymphoblasts through Computational Analysis of Immunophenotypic Flow Cytometry Data with Supervised Machine Learning
+
 Funded by Scientific and Technological Research Council of Turkey ( TÜBİTAK )
 
-**Title:** Classification of Hematogons and Neoplastic B Lymphoblasts through Computational Analysis of Immunophenotypic Flow Cytometry Data with Supervised Machine Learning
+[View Validation](/assets/Validation_2209.pdf)
 
 ## Research Interests
 
-- Molecular & Cellular Biology
 - Computational & Quantitative Biology
-- Medical Immunology & Neuroscience
+- Immunology & Neuroscience
+- Medical Systems Biology
 
 ## Skills
 
 - Python: ●●●○○
 - R: ●●○○○
 - Bash (Unix shell): ●○○○○
-- SQL: ○○○○○
 
 ## Languages
 
