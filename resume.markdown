@@ -35,6 +35,7 @@ Final Grade: 91.2 / 100
 **Istanbul** — Sep. 2023 - today
 
 - I have been learning how to analyse flow cytometry data to diagnose hematopoietic neoplasms.
+- I have been working on a project that aims to classify cell populations using machine learning.
 
 #### Koç Uni. Computational Structural Biology Laboratory — *Member*
 **Istanbul** — Sep. 2020 - June 2021
@@ -101,7 +102,7 @@ Offered by Johns Hopkins University through Coursera. Covered topics include:
 
 - Neuroscience concepts necessary to understand the implementation of neuroimaging methods
 - Introduction to neuroimaging physics and image formation
-- Overview of different neuroimaging applications: fMRI, Diffusion Tensor Imaging, MRI, and PET
+- Overview of different neuroimaging applications: fMRI , Diffusion Tensor Imaging , MRI , and PET
 
 [Verify Certificate](https://coursera.org/verify/NK5332ZNTJZE)
 
@@ -110,7 +111,7 @@ Offered by Johns Hopkins University through Coursera. Covered topics include:
 
 Offered by Yeditepe University Animal Experiments Local Ethics Committee.
 
-Received Type A Certificate for rodent use, qualified to perform procedures on animals.
+- I received type A certificate for rodent use in experimental research.
 
 [View Certificate](/assets/lab_animals.pdf)
 

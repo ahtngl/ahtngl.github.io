@@ -10,20 +10,20 @@ permalink: /about/
 
   <div style="flex: 2;">
   
-  <div style="margin-bottom: 20px; padding: 0 10px;">
-      Hello , my name is Alihan , I'm a student at Yeditepe University Faculty of Medicine ( 4 / 6 ) in Istanbul , Turkey. Before diving into medicine , I spent a year studying chemical engineering at Koç University , which sparked my interest in computational side of medical research.
+<div style="margin-bottom: 20px; padding: 0 10px;">
+      Hello , I'm Alihan , a medical student ( 4th year ) at Yeditepe University in Istanbul. Before diving into medicine , I spent a year studying chemical engineering at Koç University.
 </div>
 
 <div style="margin-bottom: 20px; padding: 0 10px;">
-    As an undergraduate intern at Yeditepe University Hospital's Stem Cell Laboratory , I've been learning the diagnostic use of flow cytometry. I also work on a project that aims to classify different cell populations using machine learning.   
+      Now , I'm interested in computational side of medical research and I aspire to work in a field that use quantitative methods to approach medicine.
 </div>
 
 <div style="margin-bottom: 20px; padding: 0 10px;">
-In the future , I aspire to approach complex diseases with computational methods to develop better treatment options that are more effective and sustainable.
+    Thus , I've been learning the diagnostic use flow cytometry at Yeditepe University Hospital's Stem Cell Laboratory since the beginning of 3rd grade. 
 </div>
 
 <div style="margin-bottom: 20px; padding: 0 10px;">
-    Outside of academics , I enjoy outdoor sports like running , watching films on MUBI , reading  classical philosophy , and experimenting with photography.
+    Outside of academics , I enjoy outdoor sports like running , watching films on MUBI , reading classical philosophy and history , cooking pasta , and taking photos.
 
 </div>
 
