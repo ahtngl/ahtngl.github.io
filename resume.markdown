@@ -45,11 +45,11 @@ Final Grade: 91.2 / 100
 
 ## Projects
 
-#### TÜBİTAK 2209 A : Research Projects Support Programme
+#### TÜBİTAK 2209 A : Research Projects Support Programme Grant Recipient
 
-- **Title:** Classification of Hematogons and Neoplastic B Lymphoblasts through Computational Analysis of Immunophenotypic Flow Cytometry Data with Supervised Machine Learning
+- **Title** : Classification of Hematogons and Neoplastic B Lymphoblasts through Computational Analysis of Immunophenotypic Flow Cytometry Data with Supervised Machine Learning
 
-Funded by Scientific and Technological Research Council of Turkey ( TÜBİTAK )
+- Funded by Scientific and Technological Research Council of Turkey ( TÜBİTAK )
 
 [View Validation](/assets/Validation_2209.pdf)
 
@@ -61,15 +61,16 @@ Funded by Scientific and Technological Research Council of Turkey ( TÜBİTAK )
 
 ## Skills
 
-- Python: ●●●○○
-- R: ●●○○○
-- Bash (Unix shell): ●○○○○
+- Python : ●●●○○
+- R : ●●○○○
+- Bash (Unix shell) : ●○○○○
 
 ## Languages
 
-- Turkish: Native
-- English: ●●●●●
-- German: ●○○○○
+- Turkish : Native
+- English : ●●●●●
+
+[Verify TOEFL Score](/assets/TOEFL.pdf)
 
 ## Certificates
 
