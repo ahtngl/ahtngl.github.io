@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume 
+title: Resume
 permalink: /resume/
 ---
 
@@ -13,7 +13,7 @@ permalink: /resume/
 
 4th year / 6
 
-[View Transcript](/assets/Med_transcript)
+[View Transcript](/assets/transcript_2024.pdf)
 
 #### Koç University — *College of Engineering*
 **Istanbul** — Sep. 2020 - June 2021
@@ -31,13 +31,13 @@ Final Grade: 91.2 / 100
 
 ## Experience
 
-#### Yeditepe Uni. Hospital & Stem Cell Laboratory — *Intern*
+#### Yeditepe University Hospital & Stem Cell Laboratory — *Intern*
 **Istanbul** — Sep. 2023 - today
 
 - I have been learning how to analyse flow cytometry data to diagnose hematopoietic neoplasms.
 - I have been working on a project that aims to classify cell populations using machine learning.
 
-#### Koç Uni. Computational Structural Biology Laboratory — *Member*
+#### Koç University Computational Structural Biology Laboratory — *Member*
 **Istanbul** — Sep. 2020 - June 2021
 
 - Gained valuable insight into teamwork in an academic setting. 

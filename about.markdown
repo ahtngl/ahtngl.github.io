@@ -6,7 +6,7 @@ permalink: /about/
 
 <div style="display: flex; align-items: center;">
 
-  <img src="/images/Me.jpeg" alt="Me Alt Text" style="width: 250px; height: auto; margin-right: 20px;"/>
+  <img src="/images/north.jpeg" alt="Me Alt Text" style="width: 250px; height: auto; margin-right: 20px;"/>
 
   <div style="flex: 2;">
   
